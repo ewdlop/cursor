@@ -11,3 +11,9 @@ Head over to [our website](https://cursor.com/) to download and try out the edit
 ## Features
 
 [See here](https://cursor.com/features) for more info on Cursor's features.
+
+## Windows Context Menu Integration
+
+For Windows users, you can add "Open in Cursor" to the context menu (right-click menu) in Windows Explorer.
+
+See the [Windows integration guide](windows/README.md) for installation instructions.

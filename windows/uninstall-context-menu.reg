@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+; Remove "Open in Cursor" from Windows context menu
+; Double-click this file to remove the context menu entries
+
+; Remove context menu for folders
+[-HKEY_CLASSES_ROOT\Directory\shell\OpenInCursor]
+
+; Remove context menu for directory background
+[-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenInCursor]
+
+; Remove context menu for files
+[-HKEY_CLASSES_ROOT\*\shell\OpenInCursor]
