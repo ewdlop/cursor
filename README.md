@@ -17,3 +17,11 @@ Head over to [our website](https://cursor.com/) to download and try out the edit
 For Windows users, you can add "Open in Cursor" to the context menu (right-click menu) in Windows Explorer.
 
 See the [Windows integration guide](windows/README.md) for installation instructions.
+
+## Semantic merge characters 
+
+<https://zh.wikipedia.org/wiki/四叠字>
+
+雷、雷雷、靐、䨻
+
+### Game Characters
