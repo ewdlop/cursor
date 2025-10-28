@@ -22,6 +22,7 @@ See the [Windows integration guide](windows/README.md) for installation instruct
 
 <https://zh.wikipedia.org/wiki/四叠字>
 
-雷、雷雷、靐、䨻
+[雷、雷雷、靐、䨻]
+[人、、、𠈌]
 
 ### Game Characters
