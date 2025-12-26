@@ -12,6 +12,8 @@ Head over to [our website](https://cursor.com/) to download and try out the edit
 
 [See here](https://cursor.com/features) for more info on Cursor's features.
 
+[anysphere.remote-wsl](https://marketplace.cursorapi.com/items/?itemName=anysphere.remote-wsl)
+
 ## Windows Context Menu Integration
 
 For Windows users, you can add "Open in Cursor" to the context menu (right-click menu) in Windows Explorer.
